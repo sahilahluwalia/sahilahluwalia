@@ -35,3 +35,11 @@ Web Developer & Designer.
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100009473030532" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/sahilahluwalia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://sahilahluwalia.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sahil-ahluwalia-630283187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=sahilahluwalia&show_icons=true&locale=en"
+    alt="sahilahluwalia"
+  />
+</p>
