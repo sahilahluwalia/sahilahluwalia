@@ -5,7 +5,7 @@ Web Developer & Designer.
 -------------------------
 
 * 🌍  I'm based in Bangalore, India
-* 🖥️  See my portfolio at [iamsahilahluwalia.in](http://iamsahilahluwalia.in/work)
+* 🖥️  See my portfolio at [iamsahilahluwalia.in](https://iamsahilahluwalia.in/)
 * ✉️  You can contact me at [iamsahilahluwalia@gmail.com](mailto:iamsahilahluwalia@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects as a developer or designer.
 
