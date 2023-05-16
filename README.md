@@ -5,7 +5,7 @@ Javascript Developer.
 -------------------------
 
 * 🌍  I'm based in Bangalore, India
-* 🖥️  See my portfolio at [sahilahluwalia.in](https://sahilahluwalia.in/)
+* 🖥️  See my portfolio at [sahilahluwalia.in](https://www.sahilahluwalia.in/)
 * ✉️  You can contact me at [iamsahilahluwalia@gmail.com](mailto:iamsahilahluwalia@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects as a developer or designer.
 
