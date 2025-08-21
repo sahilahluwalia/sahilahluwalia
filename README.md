@@ -5,7 +5,7 @@ I primarily work with TypeScript and occasionally Python. However, I'm comfortab
 
 ####  Past Work
 
-- **[AI Faceless Video SaaS](https://www.loom.com/share/e1e00f5199b446d79c587378521e1a61)** – Automated faceless video creation.  
+- **[AI Faceless Video SaaS](https://www.loom.com/share/e1e00f5199b446d79c587378521e1a61)** – Automated faceless video creation. (sold)
 - **[EdTech SaaS](https://markmywords.au/)** – AI-powered assessments with teacher feedback.  
 - **[HR SaaS](https://www.workcrew.ai/)** – AI-driven talent hiring platform.  
 
